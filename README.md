@@ -23,10 +23,16 @@ From root directory run these commands on the command line
 
 ## Image Gallery
 
-    ![Tux, the Linux mascot](/image_gallery/image6.png)
-    ![Tux, the Linux mascot](/image_gallery/image1.png)
-    ![Tux, the Linux mascot](/image_gallery/image2.png)
-    ![Tux, the Linux mascot](/image_gallery/image3.png)
-    ![Tux, the Linux mascot](/image_gallery/image4.png)
-    ![Tux, the Linux mascot](/image_gallery/image5.png)
+![Tux, the Linux mascot](/image_gallery/image6.png)
+
+![Tux, the Linux mascot](/image_gallery/image1.png)
+
+![Tux, the Linux mascot](/image_gallery/image2.png)
+
+![Tux, the Linux mascot](/image_gallery/image3.png)
+
+![Tux, the Linux mascot](/image_gallery/image4.png)
+
+![Tux, the Linux mascot](/image_gallery/image5.png)
+
 
