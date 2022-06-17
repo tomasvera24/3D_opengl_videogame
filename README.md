@@ -7,9 +7,10 @@ You are stranded on an abandoned tiki island. You must collect all 5 tiki heads 
 From root directory run these commands on the command line
 
     mkdir build
+    cd build
     cmake ..
     make
-    ./FinalProject
+    ./3d_opengl_videogame
 
 ## Project Features
 
