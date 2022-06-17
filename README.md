@@ -22,6 +22,12 @@ From root directory run these commands on the command line
 * Hierarchical Modeling
 * Particle Effects
 
+## Resources
+
+[CG trader](https://www.cgtrader.com/) for obj meshes (Free and open to use)
+
+See resources folder for actual meshes used
+
 ## Demo
 
 
