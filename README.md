@@ -25,9 +25,7 @@ From root directory run these commands on the command line
 ## Demo
 
 
-
-https://user-images.githubusercontent.com/20135853/174197483-968de708-0137-4e9b-98c3-98bc3fc3d31a.mov
-
+https://user-images.githubusercontent.com/20135853/174197640-d0d36e97-9bff-44e6-9393-5eec040082f2.mov
 
 
 ## Image Gallery
