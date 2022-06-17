@@ -26,7 +26,7 @@ From root directory run these commands on the command line
 
 
 
-https://user-images.githubusercontent.com/20135853/174197324-52bb2a86-b72f-4420-b2b9-eee14af45e0a.mov
+https://user-images.githubusercontent.com/20135853/174197483-968de708-0137-4e9b-98c3-98bc3fc3d31a.mov
 
 
 
